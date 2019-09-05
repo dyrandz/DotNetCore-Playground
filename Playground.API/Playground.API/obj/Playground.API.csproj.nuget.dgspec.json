@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.API\\Playground.API.csproj": {}
+  },
+  "projects": {
+    "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.API\\Playground.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.API\\Playground.API.csproj",
+        "projectName": "Playground.API",
+        "projectPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.API\\Playground.API.csproj",
+        "packagesPath": "C:\\Users\\Dyrandz\\.nuget\\packages\\",
+        "outputPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dyrandz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Data\\Playground.Data.csproj": {
+                "projectPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Data\\Playground.Data.csproj"
+              },
+              "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Service\\Playground.Service.csproj": {
+                "projectPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Service\\Playground.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Data\\Playground.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Data\\Playground.Data.csproj",
+        "projectName": "Playground.Data",
+        "projectPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Data\\Playground.Data.csproj",
+        "packagesPath": "C:\\Users\\Dyrandz\\.nuget\\packages\\",
+        "outputPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dyrandz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Service\\Playground.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Service\\Playground.Service.csproj",
+        "projectName": "Playground.Service",
+        "projectPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Service\\Playground.Service.csproj",
+        "packagesPath": "C:\\Users\\Dyrandz\\.nuget\\packages\\",
+        "outputPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dyrandz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Data\\Playground.Data.csproj": {
+                "projectPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.Data\\Playground.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

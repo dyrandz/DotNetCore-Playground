@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Playground.Service/1.0.0": {
+        "dependencies": {
+          "Playground.Data": "1.0.0"
+        },
+        "runtime": {
+          "Playground.Service.dll": {}
+        }
+      },
+      "Playground.Data/1.0.0": {
+        "runtime": {
+          "Playground.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Playground.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Playground.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

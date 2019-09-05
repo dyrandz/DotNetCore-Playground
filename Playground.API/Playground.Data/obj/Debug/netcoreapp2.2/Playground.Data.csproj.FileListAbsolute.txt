@@ -1,0 +1,9 @@
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\bin\Debug\netcoreapp2.2\Playground.Data.deps.json
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\bin\Debug\netcoreapp2.2\Playground.Data.dll
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\bin\Debug\netcoreapp2.2\Playground.Data.pdb
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\obj\Debug\netcoreapp2.2\Playground.Data.csprojAssemblyReference.cache
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\obj\Debug\netcoreapp2.2\Playground.Data.csproj.CoreCompileInputs.cache
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\obj\Debug\netcoreapp2.2\Playground.Data.AssemblyInfoInputs.cache
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\obj\Debug\netcoreapp2.2\Playground.Data.AssemblyInfo.cs
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\obj\Debug\netcoreapp2.2\Playground.Data.dll
+E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Data\obj\Debug\netcoreapp2.2\Playground.Data.pdb

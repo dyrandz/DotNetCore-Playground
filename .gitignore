@@ -1,0 +1,5 @@
+# igore app settings
+appsettings.json
+appsettings.Development.json
+
+Playground.API/Playground.API/bin/*
