@@ -21,5 +21,11 @@ namespace Playground.Service.Services
             var result = await _testDataManager.Test();
             return $"Hello, {name} {result}!";
         }
+
+        public async Task<string> Test2(string name)
+        {
+            var result = await _testDataManager.Test();
+            return $"Hello, {name} {result}!";
+        }
     }
 }
