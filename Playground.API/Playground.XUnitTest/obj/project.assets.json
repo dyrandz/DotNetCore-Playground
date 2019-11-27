@@ -5865,11 +5865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.XUnitTest\\Playground.XUnitTest.csproj",
+      "projectUniqueName": "E:\\RANDY\\REPOSITORY\\DotNetCore-Playground-git\\Playground.API\\Playground.XUnitTest\\Playground.XUnitTest.csproj",
       "projectName": "Playground.XUnitTest",
-      "projectPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.XUnitTest\\Playground.XUnitTest.csproj",
+      "projectPath": "E:\\RANDY\\REPOSITORY\\DotNetCore-Playground-git\\Playground.API\\Playground.XUnitTest\\Playground.XUnitTest.csproj",
       "packagesPath": "C:\\Users\\Dyrandz\\.nuget\\packages\\",
-      "outputPath": "E:\\EXPLORE_PROJECTS\\NET_CORE\\LM-WORKSHOP\\TEST-PROJECTS\\Playground.API\\Playground.XUnitTest\\obj\\",
+      "outputPath": "E:\\RANDY\\REPOSITORY\\DotNetCore-Playground-git\\Playground.API\\Playground.XUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5919,10 +5919,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

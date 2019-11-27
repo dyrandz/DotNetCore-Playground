@@ -10,3 +10,14 @@ E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground
 E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.csproj.CopyComplete
 E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.dll
 E:\EXPLORE_PROJECTS\NET_CORE\LM-WORKSHOP\TEST-PROJECTS\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.pdb
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\bin\Debug\netcoreapp2.2\Playground.Service.deps.json
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\bin\Debug\netcoreapp2.2\Playground.Service.dll
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\bin\Debug\netcoreapp2.2\Playground.Service.pdb
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\bin\Debug\netcoreapp2.2\Playground.Data.dll
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\bin\Debug\netcoreapp2.2\Playground.Data.pdb
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.csprojAssemblyReference.cache
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.AssemblyInfoInputs.cache
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.AssemblyInfo.cs
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.csproj.CopyComplete
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.dll
+E:\RANDY\REPOSITORY\DotNetCore-Playground-git\Playground.API\Playground.Service\obj\Debug\netcoreapp2.2\Playground.Service.pdb
